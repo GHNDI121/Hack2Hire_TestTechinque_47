@@ -1,4 +1,4 @@
-je travaillle actuellement sur un projet scoring credit en tant que data scientist dans le cadre d'un hackhaton.
+Ce travail se fait sur un projet scoring credit en tant que data scientist dans le cadre d'un hackhaton.
 voici notre plan de travail :
 Explorer les données pour chercher les plus grandes corrélations avec l'octroi ou non de crédit 
 Développer un modèle de prédiction de scoring crédit.
